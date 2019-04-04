@@ -1,0 +1,23 @@
+body {
+  background-color: grey;
+  font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+#bodyDiv {
+  text-align: center;
+  line-height: 1em;
+}
+
+ol li {
+  list-style-position: inside;
+}
+
+#footer {
+  margin-top: 5em;
+  text-align: center;
+}
